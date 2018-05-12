@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/717
     wikipedia: http://en.wikipedia.org/wiki/Thornton_Burgess
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32045#The-Boy-Scouts-in-A-Trapper-s-Camp
 gutenberg_issued: '2010-04-18'
 gutenberg_type: Text
 identifiers:
